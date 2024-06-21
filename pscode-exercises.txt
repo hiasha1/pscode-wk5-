@@ -1,0 +1,92 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+a + b = c
+
+num1 + num2 = sum
+print sum
+
+ask for 2 numbers 
+add the 2 number together 
+print on the screen the sum of those 2 numbers
+
+
+// Exercise 2: Check if a Number is Even or Odd
+
+num = 6
+if num % 2 == 0
+print ("even number")
+else
+print ("odd number")
+
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+Declare integers variables n1, n2, n3, n4, n5
+
+Declare variables avg, large, small
+
+input n1
+
+input n2
+
+input n3
+
+input n4
+
+input n5
+
+calculate and assign avg = n1 PL n2 PL n3 PL n4 PL n5 DIVIDE 5
+
+if n1 greater than n2, n3, n4, n5 Then
+
+large = n1
+
+else if n2 greater than n1, n3, n4, n5 Then
+
+large = n2
+
+else if n3 greater than n1, n2, n4, n5 Then
+
+large = n3
+
+else if n4 greater than n1, n2, n4, n5 Then
+
+large = n4
+
+else
+
+large = n5
+
+if n1 less than n2, n3, n4, n5 Then
+
+small = n1
+
+else if n2 less than n1, n3, n4, n5 Then
+
+small = n2
+
+else if n3 less than n1, n2, n4, n5 Then
+
+small = n3
+
+else if n4 less than n1, n2, n4, n5 Then
+
+small = n4
+
+else
+
+small = n5
+
+Print "The average of five numbers is : avg"
+
+Print "The smallest number among five numbers is : small"
+
+Print "The largest number among five numbers is : large"
+
+-- END --
